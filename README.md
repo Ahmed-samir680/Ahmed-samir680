@@ -23,6 +23,18 @@ Turning raw data into meaningful insights, interactive dashboards, and useful bu
 - Business Insights and Recommendations
 - Interactive Dashboards
 
+- 
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,sqlite,git,github,vscode" alt="Programming and development tools" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Web development tools" />
+</p>
+
+
 **Programming & Data Analysis**
 - Python
 - Pandas
