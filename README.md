@@ -5,7 +5,7 @@
 
 Fourth-year Computer Science student at Zagazig University (expected June 2027), building a data analyst career with SQL, Power BI, Excel and Python.
 
-🌐 **Portfolio:** `<ضع هنا رابط GitHub Pages الخاص بالبورتفوليو>`
+🌐 **Portfolio:** [ahmed-samir680.github.io/Ahmed-samir680](https://ahmed-samir680.github.io/Ahmed-samir680/)
 💼 **LinkedIn:** [ahmed-samir-analytic](https://www.linkedin.com/in/ahmed-samir-analytic/)
 
 ---
