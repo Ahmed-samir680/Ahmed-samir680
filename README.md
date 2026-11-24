@@ -1,76 +1,55 @@
-# Hi 👋, I'm Ahmed Samir
+# Hi, I'm Ahmed Samir 👋
 
-### Data Analysis | Data Science | Business Intelligence | Computer Science
+**Data Analytics · Business Intelligence · Data Science + AI**
+*Turning data into insight.*
 
-Turning raw data into meaningful insights, interactive dashboards, and useful business recommendations.
+Fourth-year Computer Science student at Zagazig University (expected June 2027), building a data analyst career with SQL, Power BI, Excel and Python.
 
-## 👨‍💻 About Me
-
-- 🎓 Computer Science student at Zagazig University, Egypt.
-- 📊 Interested in Data Analysis, Data Science, and Business Intelligence.
-- 🔄 Interested in the complete data analysis process, from data cleaning and transformation to analysis, visualization, and insights.
-- 💡 Focused on understanding business problems and using data to support better decisions.
-- 📈 Interested in building interactive dashboards and clear analytical reports.
-- 💻 Building my Computer Science foundation through programming, problem-solving, and academic projects.
-- 🌱 Always learning, practicing, and improving my technical skills.
-
-## 🧰 Skills & Technologies
-
-**Data Analysis & Business Intelligence**
-- Data Cleaning and Transformation
-- Exploratory Data Analysis (EDA)
-- Data Visualization and Reporting
-- Business Insights and Recommendations
-- Interactive Dashboards
-
-- 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,sqlite,git,github,vscode" alt="Programming and development tools" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" alt="Web development tools" />
-</p>
-
-
-## 📊 Data Analytics Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
-
-**Programming & Data Analysis**
-- Python
-- Pandas
-- C++
-
-**Databases**
-- SQL
-- MySQL
-- Microsoft SQL Server
-
-**Data Tools**
-- Microsoft Excel
-- Power Query
-- Power BI
-
-**Computer Science**
-- Programming Fundamentals
-- Problem Solving
-- System Analysis and Design
-
-## 📫 Connect With Me
-
-- LinkedIn: [Ahmed Samir](https://www.linkedin.com/in/ahmed-samir-analytic/)
-- GitHub: [Ahmed-samir680](https://github.com/Ahmed-samir680)
+🌐 **Portfolio:** `<ضع هنا رابط GitHub Pages الخاص بالبورتفوليو>`
+💼 **LinkedIn:** [ahmed-samir-analytic](https://www.linkedin.com/in/ahmed-samir-analytic/)
 
 ---
 
-*Thanks for visiting my profile! I'm continuously learning and working on improving my skills.*
+## 🎯 What I do
+- Clean and prepare messy data (Excel, CSV, Python/Pandas, Power Query)
+- Write SQL over fact and dimension tables (MySQL)
+- Build Power BI and Excel dashboards with slicers and clear KPIs
+- Explain what the data showed in plain language
+
+## 📈 Featured work
+| Project | What it is | Tools |
+|---|---|---|
+| **Road Traffic Accidents Analysis** (team project, NTI) | Egypt road injuries and deaths, 2022–2025, 4-page Power BI dashboard. **My part: the SQL analysis.** | MySQL, Power BI, Pandas, Power Query |
+| **Excel Dashboards** | Financial and Sales/Profit dashboards with slicers | Excel, Power Query, PivotCharts |
+| **Power BI Practice Dashboards** | E-commerce sales and employee attrition | Power BI |
+
+### Dashboard previews
+<p>
+<img src="assets/road-accidents-overview.webp" width="48%" alt="Road Accidents Overview, Power BI">
+<img src="assets/powerbi-ecommerce.webp" width="48%" alt="E-commerce sales, Power BI">
+</p>
+<p>
+<img src="assets/excel-financial-dashboard.webp" width="48%" alt="Financial dashboard, Excel">
+<img src="assets/powerbi-attrition.webp" width="48%" alt="Employee attrition, Power BI">
+</p>
+
+## 🎓 Training & Certificates
+- **NTI × ITIDA Data Analytics Summer Training**: 120 hours, 100% final score (Jul–Aug 2026)
+- **McKinsey.org Forward Program**: Foundational Skills (Oct–Dec 2026)
+- Link · eYouth: Business Intelligence and Data Analysis
+- HP LIFE: Data Science and Analytics
+- DeepLearning.AI: AI for Everyone · Google Cloud: Intro to Generative AI
+- ICPC Zagazig Community: Level 0
+
+## 🧰 Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+Also: Power Query · C++ · Tableau (training) · SQL Server (training) · Git
+
+## 📫 Open to
+Trainee roles and small freelance projects in data analytics / BI.
+Fastest way to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-samir-analytic/)
